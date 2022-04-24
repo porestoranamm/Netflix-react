@@ -10,8 +10,8 @@ body{
 
 .search-container{
     background: #fff;
-    height: 30px;
-    border-radius: 30px;
+    height: 20px;
+    border-radius: 20px;
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
